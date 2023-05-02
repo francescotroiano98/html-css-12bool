@@ -1,6 +1,7 @@
 .container{
     max-width: 100%;
     margin: 0 auto;
+    margin-bottom: 2em;
 }
 .flex{
     display: flex;
@@ -17,4 +18,7 @@
 .row-6 [class^="col-"]{
     background-color: rgb(128, 227, 29);
     border-color: rgb(0, 114, 221);
+}
+.container-middle [class^="col-"] {
+    height: 45.6px;
 }
