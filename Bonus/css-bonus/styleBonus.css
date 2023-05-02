@@ -1,0 +1,37 @@
+.container{
+    max-width:900px;
+    margin: 0 auto;
+}
+[class^="col-"]{
+    
+    width: 50px;
+    height: 50px;
+    border: 1px solid rgb(0, 0, 0);
+}    
+.row-1 col{
+    background-color: black;
+}
+.opacity-80{
+    opacity: 80%;
+}
+.opacity-60{
+    opacity: 60%;
+}
+.opacity-40{
+    opacity: 40%;
+}
+.black{
+    background-color: black;
+}
+.white{
+    background-color: white;
+}
+.red{
+    background-color: #b31616;
+}
+.pink{
+    background-color: #ffcafe;
+}
+.purple{
+    background-color: #5b0eaa;
+}
