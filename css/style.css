@@ -12,5 +12,9 @@
     background-color: rgb(0, 114, 221);
     color: white;
     border: 1px solid white;
-    padding: 0.8em 0;
+    padding: 0.8em 0.8em;
+}
+.row-6 [class^="col-"]{
+    background-color: rgb(128, 227, 29);
+    border-color: rgb(0, 114, 221);
 }
