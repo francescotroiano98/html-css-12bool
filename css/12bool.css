@@ -57,3 +57,10 @@
     flex-basis: calc(100% / 12) * 12;
     max-width: calc(100% / 12) * 12;
 }
+
+[class^="col-offset"]{
+    margin-left: 0;
+}
+.col-offset-1{
+    margin-left: calc(100% / 12) * 1;
+}
